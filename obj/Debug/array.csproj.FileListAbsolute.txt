@@ -1,0 +1,8 @@
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\bin\Debug\array.exe.config
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\bin\Debug\array.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\bin\Debug\array.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\obj\Debug\array.csproj.AssemblyReference.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\obj\Debug\array.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\obj\Debug\array.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu12\array\obj\Debug\array.pdb
